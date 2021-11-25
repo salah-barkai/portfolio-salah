@@ -1,0 +1,84 @@
+html {
+    margin: 0px;
+    padding: 0px;
+    border-color: rgb(187, 87, 5) solid 5px;
+    border-style: ridge;
+}
+
+body {
+    background-color: rgb(2, 2, 43);
+    color: white;
+    text-align: center;
+    border: solid 0px;
+    border-color: chocolate;
+}
+
+div.menu {
+    font-family: monospace;
+    font-size: 20px;
+    display: 3px;
+    margin-bottom: 3px;
+    float: right;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    padding: 5px 20px;
+    border: 10px;
+    color: rgb(118, 118, 131)
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    margin-top: -10px;
+    border-radius: 50%;
+    float: left;
+    margin-left: auto;
+}
+
+div.my-content {
+    float: left;
+    text-align: left;
+    margin-right: 50px;
+}
+
+img {
+    width: 200pxpx;
+    height: 200px;
+    ;
+    float: center;
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: -50px;
+    border: 2px solid;
+    border-color: tomato;
+}
+
+.btn {
+    word-spacing: 400px;
+    border: 10px;
+    display: inline-block;
+}
+
+button {
+    background-color: rgb(0, 7, 8);
+    color: white;
+}
+
+footer {
+    background-color: none;
+    height: 100%;
+    width: 100%;
+    size: 100%;
+}
+
+header {
+    float: none;
+}
+
+div.menu.button {
+    background-color: rgb(128, 83, 0);
+}
+
+.contenair ul {
+    list-style: none;
+}

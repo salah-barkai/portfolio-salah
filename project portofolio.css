@@ -1,0 +1,27 @@
+html {
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background-color: black;
+}
+
+body {
+    background-color: rgb(3, 3, 71);
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(236, 206, 184);
+    border: 2px solid;
+}
+
+footer {
+    background-color: black;
+    box-sizing: border-box;
+    padding: 10px 20px;
+}
